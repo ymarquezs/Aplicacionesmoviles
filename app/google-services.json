@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1078060820324",
+    "firebase_url": "https://autentica2022-69f18-default-rtdb.firebaseio.com",
+    "project_id": "autentica2022-69f18",
+    "storage_bucket": "autentica2022-69f18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078060820324:android:9285d198bf42a36c713c71",
+        "android_client_info": {
+          "package_name": "edu.yms.ymsautenticacion",
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078060820324-cfpr4ae0esbkvgk71al1qpo981qnfqec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlWaPYauww5eZpBX_W-E2QZNfAlZJcH7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078060820324-cfpr4ae0esbkvgk71al1qpo981qnfqec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
